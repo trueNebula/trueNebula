@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ![Metrics](/metrics.classic.svg)
-![Calendar](/metrics.plugin.isocalendar.fullyear.svg)
 ![Music](/metrics.plugin.music.playlist.spotify.svg)
+![Calendar](/metrics.plugin.isocalendar.fullyear.svg)
 ![Achievements](/metrics.plugin.achievements.compact.svg)
 <!--
 **trueNebula/trueNebula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

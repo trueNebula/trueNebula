@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-![Metrics](/metrics.classic.svg)
-![Music](/metrics.plugin.music.playlist.spotify.svg)
-![Calendar](/metrics.plugin.isocalendar.fullyear.svg)
-![Achievements](/metrics.plugin.achievements.compact.svg)
+<p align="center"><img src="/metrics.classic.svg" alt="Metrics" width="400"></p>
+<p align="center"><img src="/metrics.plugin.music.playlist.spotify.svg" alt="Music" width="400"></p>
+<p align="center"><img src="metrics.plugin.isocalendar.fullyear.svg" alt="Calendar" width="900"></p>
+<!-- <p align="center"><img src="/metrics.plugin.achievements.compact.svg" alt="Achievements" width="400"></p> -->
+
 <!--
 **trueNebula/trueNebula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

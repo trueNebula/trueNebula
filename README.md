@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<p align="center"><img src="/metrics.classic.svg" alt="Metrics" width="400"><img src="/metrics.plugin.music.playlist.spotify.svg" alt="Music" width="400"></p>
-<p align="center"><img src="metrics.plugin.isocalendar.fullyear.svg" alt="Calendar" width="900"></p>
+<p align="center"><img src="/metrics.classic.svg" alt="Metrics"><img src="/metrics.plugin.music.playlist.spotify.svg" alt="Music"></p>
+<p align="center"><img src="metrics.plugin.isocalendar.fullyear.svg" alt="Calendar"></p>
 <!-- <p align="center"><img src="/metrics.plugin.achievements.compact.svg" alt="Achievements" width="400"></p> -->
 
 <!--
